@@ -9,6 +9,11 @@ body {
 }
 
 h1 {
+  background-image: url(libearth.svg);
+  background-repeat: no-repeat;
+  background-size: 132px 139px;
+  background-position: center 0;
+  padding-top: 150px;
   text-align: center;
   font-weight: 600;
 }
