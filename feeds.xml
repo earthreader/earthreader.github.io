@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="2.0">
   <head>
+    <title>Feeds related to the Earth Reader project</title>
     <ownerName>Earth Reader Team</ownerName>
     <ownerEmail>earthreader@librelist.com</ownerEmail>
     <ownerId>http://earthreader.org/</ownerId>
